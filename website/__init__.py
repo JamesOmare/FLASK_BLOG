@@ -7,6 +7,7 @@ from .auth import auth
 from .models.user import User
 from .models.posts import Post
 from .models.comments import Comment
+from .models.likes import Like
 from .utils import db
 
 
